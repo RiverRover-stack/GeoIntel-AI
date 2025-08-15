@@ -1,4 +1,4 @@
-# 🌍 GeoIntel-AI: Advanced Geopolitical Intelligence Tracker
+# GeoIntel-AI: Advanced Geopolitical Intelligence Tracker
 ![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
 
