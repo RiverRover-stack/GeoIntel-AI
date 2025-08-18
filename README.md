@@ -17,12 +17,3 @@ GeoIntel-AI automatically monitors, analyzes, and categorizes global news events
 | **📋 Intelligence Reports**            | Automated comprehensive reports           | Custom HTML generation                |
 | **⚡ Lazy Loading**                    | Efficient memory management               | Custom property decorators            |
 
-## 🚀 Live Demo & Results
-### 📈 Performance Metrics
-- 🧪 **Classification Accuracy**: 85%+ on diverse news sources  
-- ⚡ **Processing Speed**: ~30 seconds per article (including all analyses)  
-- 🧠 **Memory Optimization**: 70% reduction in startup time (2 minutes → 2 seconds)  
-- 🎯 **Entity Extraction F1 Score**: 0.82 (combined spaCy + Flair approach)  
-- 🌍 **Supported Event Categories**: 12 distinct geopolitical categories
-## 🎨 Sample Outputs
-### Interactive Dashboard
