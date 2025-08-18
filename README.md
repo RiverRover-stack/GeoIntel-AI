@@ -6,7 +6,7 @@
 ## 🎯 Project Overview
 GeoIntel-AI automatically monitors, analyzes, and categorizes global news events to provide real-time geopolitical intelligence. Built with state-of-the-art NLP models, it processes news articles and generates comprehensive reports with severity assessments, sentiment analysis, and geographic insights.
 ## 🔥 Key Features
-| **Feature**                            | **Description**                           | **Technology**                        |
+| **Feature**                            | **Description**                           | **Technology (planned/partially implemented)**|
 |------------------------------------    |-------------------------------------------|---------------------------------------|
 | **🧠 Zero-Shot Classification**        | Categorizes events without training data  | BART (facebook/bart-large-mnli)       |
 | **🎯 Advanced Entity Extraction**      | Hybrid approach for maximum accuracy      | spaCy + Flair NER                     |
